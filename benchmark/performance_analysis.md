@@ -47,6 +47,7 @@ To run the benchmark on your local machine, follow these steps:
 
 ### Speedup Graph Analysis
 The speedup graph compares the performance of the simple-parallel implementation (blue line) and the work-stealing implementation (orange line) with varying numbers of threads.
+
 ![Speedup Graph](speedup.png)
 
 #### 1. Simple-Parallel
