@@ -24,7 +24,7 @@ To run the benchmark on your local machine, follow these steps:
 
 1. Clone the repository and navigate to the project directory:
     ```bash
-    git clone https://github.com/yourusername/parallel-llm.git
+    git clone https://github.com/RichardVu3/parallel-LLM-requests.git
     cd parallel-llm-requests/
     ```
 
