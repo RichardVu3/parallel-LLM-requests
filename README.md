@@ -36,7 +36,7 @@ parallel-llm-requests/
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/parallel-llm.git
+   git clone https://github.com/RichardVu3/parallel-LLM-requests.git
    cd parallel-llm-requests/
    ```
 2. Install dependencies:
